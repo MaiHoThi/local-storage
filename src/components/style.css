@@ -1,0 +1,17 @@
+.Create{
+    border: 1px solid;
+    width: 500px;
+    height: 100px;
+    margin-left: 20%;
+    display: grid;
+
+}
+.Create input{
+    height: 10px;
+    padding: 10px;
+}
+.ProductItem{
+    border: 1px solid;
+    display: grid ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
